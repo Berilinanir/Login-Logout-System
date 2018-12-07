@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+
+body{
+	
+	
+	background-image:url(C:\Users\asus\Desktop\resim.jpg);
+	background-repeat:no-repeat;
+	backgorund-size:cover;
+
+}

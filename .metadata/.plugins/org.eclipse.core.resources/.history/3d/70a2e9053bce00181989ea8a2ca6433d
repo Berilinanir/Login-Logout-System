@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body background="img/resim.jpg" >
+
+  <form method="post" action="Main">
+  
+  <div class="registration.box">
+ 
+  <h2>Registration</h2>
+  
+  <div class="inputbox">
+   
+   <input name="name" type="text">
+   <label>UserName</label>
+ </div>
+  <div class="inputbox">
+   
+   <input name="pass" type="password">
+   <label>Password</label>
+ </div>
+ <div class="inputbox">
+   
+   <input name="email" type="email">
+   <label>Email</label>
+ </div>
+<pre>
+
+<input type="submit" value="button">
+</pre>
+</form> 
+ </div>
+</body>
+</html> 

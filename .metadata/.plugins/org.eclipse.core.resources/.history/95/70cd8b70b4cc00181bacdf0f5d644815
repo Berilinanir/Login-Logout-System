@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+
+body{
+	
+	
+	background-image:url(../img/resim.jpg);
+	background-repeat:no-repeat;
+	backgorund-size:cover;
+}

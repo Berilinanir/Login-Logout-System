@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <form method="post" action="Main">
+  <h2>Registration</h2>
+  
+  <div class="inputbox">
+   
+   <input name="name" type="text">
+   <label>UserName</label>
+ </div>
+  <div class="inputbox">
+   
+   <input name="pass" type="password">
+   <label>Password</label>
+ </div>
+ <div class="inputbox">
+   
+   <input name="email" type="email">
+   <label>Password</label>
+ </div>
+<pre>
+
+<input type="submit" value="button">
+</pre>
+</form> 
+</body>
+</html> 

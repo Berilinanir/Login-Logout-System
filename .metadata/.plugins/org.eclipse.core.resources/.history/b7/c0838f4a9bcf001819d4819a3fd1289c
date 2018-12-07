@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+
+
+ 
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body >
+
+  <form method="post" action="Main">
+  
+  <div class="registration-box">
+ 
+  <h1>Registration</h1>
+  
+  <div class="textbox">
+     
+     <i class="fa fa-user" aria-hidden="true" ></i>
+     
+          <input type="text" placeholder="UserName"  name="name" value="">
+  </div>
+  
+ 
+   <div class="textbox">
+    
+     <i class="fa fa-lock" aria-hidden="true"></i>
+     
+         <input  type="password" placeholder="Password" name="pass" value="">
+   
+   </div>
+   
+  <div class="textbox">
+      
+      <i class="fa fa-at" aria-hidden="true"></i>
+   
+   <input type="email" placeholder="Email" name="email" value="">
+   
+  </div>
+  
+  <input class="btn" type="button"  name="" value="Kaydet">
+<pre>
+
+</pre>
+</form> 
+ </div>
+</body>
+</html> 

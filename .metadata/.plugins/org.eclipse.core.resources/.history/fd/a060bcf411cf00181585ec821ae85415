@@ -1,0 +1,41 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+
+    
+        
+    
+
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Success Page</title>
+   
+   <link rel="stylesheet" href="style3.css">
+   
+</head>
+<body>
+
+  <slider>
+         
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         
+    
+  </slider>
+  
+     <button id="myButton" class="float-left submit-button" >Home</button>
+
+     <script type="text/javascript">
+      document.getElementById("myButton").onclick = function () {
+        location.href = "logout.jsp";
+    };
+    
+</script>
+    
+ 
+
+</body>
+</html>

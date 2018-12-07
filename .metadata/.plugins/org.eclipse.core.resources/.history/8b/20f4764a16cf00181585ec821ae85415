@@ -1,0 +1,49 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+
+    
+        
+    
+
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Success Page</title>
+   
+   <link rel="stylesheet" href="style3.css">
+   
+</head>
+<body>
+ 
+    <div style="text-align:center;">
+    
+    
+    
+     <input type=button onClick="location.href='logout.jsp'" value='click here' >
+    
+    
+    
+  <slider>
+         
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         <slide><p>Welcome  ${sessionScope.namee }</p></slide>
+         
+      
+  </slider>
+         
+       
+         
+      </div>
+
+    
+</script>
+    
+        
+
+</body>
+
+     
+</html>

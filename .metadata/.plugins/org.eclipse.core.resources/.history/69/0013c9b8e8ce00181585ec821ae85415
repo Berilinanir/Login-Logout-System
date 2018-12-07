@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title>Login Form</title>
+
+<link rel="stylesheet" href="style2.css">
+
+</head>
+<body>
+ 
+ <form method="post" action="Login">
+ 
+ 
+ <div class="login-box">
+ 
+ <h1>Login</h1>
+ 
+ <div class="textbox">
+ 
+  <input type="text" placeholder="UserName"  name="" value="">
+ 
+ </div>
+ 
+ <div class="textbox">
+ 
+  <input type="password" placeholder="Password"  name="" value="">
+ 
+ </div>
+ 
+ <input class="btn" type="button"  name="" value="Sign in">
+ 
+ </form>
+</body>
+</html>

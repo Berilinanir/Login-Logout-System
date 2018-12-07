@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\asus\Desktop\JSP_UYGULAMA\eclipse\jsp_egitim\PROJE2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+400079495.index
+3798218917.index
+507787714.index
+2858566485.index
+3489878474.index
+1552260089.index

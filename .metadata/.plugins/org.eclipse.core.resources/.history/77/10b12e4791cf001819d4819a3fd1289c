@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<link rel="stylesheet" href="style4.css">
+
+
+</head>
+<body>
+
+<input type="button" value="Gönder" name="buton1" title="Düğmeye bas" onclick="parent.location='login.html'"/>
+<input type="button" onClick="location.href='login.html'" value='Cikis Yap' class="btn" style="color:blue" >
+
+<p style="color:red" align="center"  >Invalid username or password, Please try again with valid </p>
+
+
+
+
+
+</body>
+
+
+</html>
